@@ -13,7 +13,7 @@
   --s1: 8px;
   --background-color: #e1e8ed;
   /* Primary fonts */
-  --main-font: "Inter", sans-serif;
+  --main-font: "Fira Code", sans-serif;
   --main-font-color: #202b33;
   --main-font-size: 14px;
   --code-font: monospace;
@@ -174,10 +174,10 @@
   --s1: 8px;
   --background-color: #e1e8ed;
   /* Primary fonts */
-  --main-font: "Inter", sans-serif;
+  --main-font: "Fira Code", sans-serif;
   --main-font-color: #999;
   --main-font-size: 14px;
-  --code-font: "Source Code Pro", "Courier New", Courier, monospace;
+  --code-font: "Fira Code", "Courier New", Courier, monospace;
   --code-font-color: #6d9cbe;
   --code-font-size: 0.9rem;
   --caret-color: #0080ff;
